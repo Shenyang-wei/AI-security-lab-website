@@ -1,5 +1,5 @@
 ---
-title: AI-security
+title: Tean
 nav:
   order: 3
   tooltip: About our team
