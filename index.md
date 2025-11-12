@@ -1,22 +1,22 @@
 ---
 ---
 
-# Shenyang-wei's Website
+# AI-Security and Data Privacy 实验室
 
-An engaging 1-3 sentence description of your lab.
+我们致力于人工智能安全与数据隐私保护研究，探索模型鲁棒性、对抗攻击防御以及隐私保护方法，为可信 AI 提供技术保障。
 
 {% include section.html %}
 
-## Highlights
+## 主页亮点
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+我们的研究涵盖人工智能安全、对抗样本、模型可解释性和隐私保护等方向，旨在推动安全可靠的 AI 技术发展。
 
 {%
   include button.html
   link="research"
-  text="See our publications"
+  text="查看我们的研究成果"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -26,20 +26,20 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/research.jpg"
   link="research"
-  title="Our Research"
+  title="我们的研究"
   text=text
 %}
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+实验室参与多个项目，开发开源工具和数据集，推动 AI 安全技术的落地应用。
 
 {%
   include button.html
   link="projects"
-  text="Browse our projects"
+  text="查看实验室项目"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -49,9 +49,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/projects.jpg"
   link="projects"
-  title="Our Projects"
+  title="实验室项目"
   flip=true
   style="bare"
   text=text
@@ -59,12 +59,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+我们的团队由来自计算机科学和安全研究背景的教授、博士和研究生组成，共同探索 AI 安全与隐私技术。
 
 {%
   include button.html
   link="team"
-  text="Meet our team"
+  text="认识我们的团队"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -74,8 +74,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/team.jpg"
   link="team"
-  title="Our Team"
+  title="实验室团队"
   text=text
 %}
