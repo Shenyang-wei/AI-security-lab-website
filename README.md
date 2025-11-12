@@ -5,6 +5,6 @@
 
   # Shenyang-wei's Website
 
-  Visit **[website url](#)** 🚀
+  Visit **[shenyang-wei.github.io/AI-security-lab-website](https://shenyang-wei.github.io/AI-security-lab-website)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
