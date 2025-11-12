@@ -1,5 +1,5 @@
 ---
-title: Team
+title: AI-security
 nav:
   order: 3
   tooltip: About our team
