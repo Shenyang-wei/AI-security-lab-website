@@ -2,26 +2,18 @@
 title: Projects
 nav:
   order: 2
-  tooltip: Software, datasets, and more
+  tooltip: AI Security Research Projects
 ---
 
-# {% include icon.html icon="fa-solid fa-wrench" %}Projects
+# {% include icon.html icon="fa-solid fa-wrench" %}Our Projects
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+We develop **open research projects** on AI Security and Data Privacy, focusing on robustness, unlearning, and secure data generation.
 
-{% include tags.html tags="publication, resource, website" %}
-
-{% include search-info.html %}
-
-{% include section.html %}
-
-## Featured
-
+{% include section.html title="Featured Projects" %}
 {% include list.html component="card" data="projects" filter="group == 'featured'" %}
 
-{% include section.html %}
-
-## More
-
+{% include section.html title="All Projects" %}
 {% include list.html component="card" data="projects" filter="!group" style="small" %}
+
+{% include section.html title="Collaborations" %}
+We work closely with academic and industry partners to translate our research into real-world impact.
