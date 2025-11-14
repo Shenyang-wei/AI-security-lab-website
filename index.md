@@ -26,7 +26,7 @@
 
 {%
   include feature.html
-  image="images/research.jpg"
+  image="images/background.jpg"
   link="research"
   title="我们的研究"
   text=text
@@ -49,7 +49,7 @@
 
 {%
   include feature.html
-  image="images/projects.jpg"
+  image="images/background.jpg"
   link="projects"
   title="实验室项目"
   flip=true
@@ -74,7 +74,7 @@
 
 {%
   include feature.html
-  image="images/team.jpg"
+  image="images/background.jpg"
   link="team"
   title="实验室团队"
   text=text
